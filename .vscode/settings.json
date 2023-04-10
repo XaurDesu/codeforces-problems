@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
+        "./codeforces-problems/Cargo.toml",
         "./codeforces-problems/Cargo.toml"
     ]
 }
